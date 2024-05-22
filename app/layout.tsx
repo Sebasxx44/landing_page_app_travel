@@ -5,7 +5,7 @@ import { Metadata } from "next";
 import Footer from "@/Components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel App",
+  title: "NatuNest Landing Page",
   description: "Travel UI/UX App",
 };
 
